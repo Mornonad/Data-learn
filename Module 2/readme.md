@@ -20,4 +20,5 @@
 ## Запросы для создания и заполнения таблиц
 * [Загрузка Данных](https://github.com/Mornonad/Data-learn/blob/main/Module%202/data_upload.sql)
 
-## База данных в облаке. Дашборд созданный с помощью DataLens
+## База данных в облаке Supabase(AWS) Дашборд созданный с помощью [PowerBI](https://github.com/Mornonad/Data-learn/blob/main/Module%202/dashboard.pbix)
+![dashboard](https://github.com/Mornonad/Data-learn/blob/main/Module%202/dashboard.PNG)
